@@ -17,7 +17,7 @@ export default function Index() {
   return (
     <Page>
       <Text variant="h1" className="mb-6">
-        Monorepo
+        Monorepo Test
       </Text>
       <Text className="mb-4">
         In this monorepo app we have a single site with two installed
